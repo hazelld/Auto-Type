@@ -15,6 +15,8 @@ Note: Must run as sudo or the program will not work
 Cheat at typing tests of course  
 	![](cheating.png)
 	
+(The missed words are because I didn't enable the ' key, so "don't" and "isn't" were incorrect)
+	
 ##Portability Issues 
 I have only tested this on Ubuntu, because the actual device is saved under different names on different distributions, which means this isn't very portable.  
 
